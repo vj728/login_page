@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  height: 100vh; /* Ensures the gradient covers the full viewport height */
+  background: linear-gradient(to bottom, #BF4193, #1F4CB3);
+}
+
+#form{
+  width: 25%;
+  height: 450px;
+  background-color: #FEFEFE;
+  margin-top: 140px;
+  margin-left: 600px;
+}
+.A{
+  font-size: 20px;
+  height: 35px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 60px;
+
+}
+#start{
+  margin-top: 50px;
+  margin-left: 28px;
+  margin-right: 28px;
+  height: 20px;
+  width: 20px;
+  font-weight: 400;
+ 
+}
+.a{
+  font-size: 15px;
+  height: 30px;
+  width: 200px;
+  margin-top: 5px;
+  margin-left: 50px;
+  background-color: #e5e5e5;
+  border: none;
+  padding-left: 15px;
+  
+}
+.b{
+  width: 215px;
+  margin-top: 30px;
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  height: 35px;
+  border: none;
+  
+  color:white;
+  background-color: #D4408E;
+}
